@@ -7,7 +7,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)](https://1fellype.github.io/Sev7en/)
+ [Clique aqui para acessar! :)](https://sev7endados.vercel.app/)
 
 ## Tecnologias
 
